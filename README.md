@@ -16,4 +16,4 @@ To run the tests, follow these steps:
 
     ```sh
     npm test
-    ```s
+    ```
